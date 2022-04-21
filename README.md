@@ -1,0 +1,1 @@
+This is a Python Project to Scrape Apple YouTube data using YouTube Data API. Using YouTube API, I extracted the data and then load this data into a Python Pandas DataFrame and then analyze this data. Finally, built simple visualization from this data using the Python Seaborn library.
